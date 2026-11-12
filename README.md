@@ -1,6 +1,6 @@
 # Cloud Computing Course - Documentación
 
-Sitio de documentación del curso de Computación en la Nube, construido con [Docusaurus](https://docusaurus.io/).
+Sitio de documentación del curso de Computación en la Nube, construido con [Docusaurus](https://docusaurus.io/). Frase modificada
 
 ## Instalación
 
